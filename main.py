@@ -18,8 +18,8 @@ model = "gpt-4-1106-preview"  # "gpt-3.5-turbo-16k"
 
 
 # == Hardcoded ids to be used once the first code run is done and the assistant was created, you can get this with running the file `app.py`
-thread_id = "thread_HuJDpoOqd5e2TUBoqb7L7MoV"
-assis_id = "asst_TcEEkPQQEmVTo5bJvIQylCY4"
+# thread_id = ""
+# assis_id = ""
 
 # Initialize all the session
 if "file_id_list" not in st.session_state:
